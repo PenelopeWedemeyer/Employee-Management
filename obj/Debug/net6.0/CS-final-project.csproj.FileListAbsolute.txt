@@ -1,0 +1,14 @@
+D:\Users\penny\Desktop\codingclass\BST-FullStack\csharp-course\CS-final-project\bin\Debug\net6.0\CS-final-project.exe
+D:\Users\penny\Desktop\codingclass\BST-FullStack\csharp-course\CS-final-project\bin\Debug\net6.0\CS-final-project.deps.json
+D:\Users\penny\Desktop\codingclass\BST-FullStack\csharp-course\CS-final-project\bin\Debug\net6.0\CS-final-project.runtimeconfig.json
+D:\Users\penny\Desktop\codingclass\BST-FullStack\csharp-course\CS-final-project\bin\Debug\net6.0\CS-final-project.dll
+D:\Users\penny\Desktop\codingclass\BST-FullStack\csharp-course\CS-final-project\bin\Debug\net6.0\CS-final-project.pdb
+D:\Users\penny\Desktop\codingclass\BST-FullStack\csharp-course\CS-final-project\obj\Debug\net6.0\CS-final-project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\penny\Desktop\codingclass\BST-FullStack\csharp-course\CS-final-project\obj\Debug\net6.0\CS-final-project.AssemblyInfoInputs.cache
+D:\Users\penny\Desktop\codingclass\BST-FullStack\csharp-course\CS-final-project\obj\Debug\net6.0\CS-final-project.AssemblyInfo.cs
+D:\Users\penny\Desktop\codingclass\BST-FullStack\csharp-course\CS-final-project\obj\Debug\net6.0\CS-final-project.csproj.CoreCompileInputs.cache
+D:\Users\penny\Desktop\codingclass\BST-FullStack\csharp-course\CS-final-project\obj\Debug\net6.0\CS-final-project.dll
+D:\Users\penny\Desktop\codingclass\BST-FullStack\csharp-course\CS-final-project\obj\Debug\net6.0\refint\CS-final-project.dll
+D:\Users\penny\Desktop\codingclass\BST-FullStack\csharp-course\CS-final-project\obj\Debug\net6.0\CS-final-project.pdb
+D:\Users\penny\Desktop\codingclass\BST-FullStack\csharp-course\CS-final-project\obj\Debug\net6.0\CS-final-project.genruntimeconfig.cache
+D:\Users\penny\Desktop\codingclass\BST-FullStack\csharp-course\CS-final-project\obj\Debug\net6.0\ref\CS-final-project.dll

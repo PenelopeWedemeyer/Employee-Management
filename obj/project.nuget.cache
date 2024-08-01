@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ep8QDLK1zAVY0n/jJTbemnmMbYwZ2e0EkxR9IuZj3zJ30aalroYzoBld588rBcSQl0WLRI1yeVoOAaxE7LqusQ==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\penny\\Desktop\\codingclass\\BST-FullStack\\csharp-course\\CS-final-project\\CS-final-project.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\penny\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\penny\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\penny\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\penny\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
